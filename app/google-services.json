@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "793591848826",
+    "firebase_url": "https://shree-hospital-kop.firebaseio.com",
+    "project_id": "shree-hospital-kop",
+    "storage_bucket": "shree-hospital-kop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793591848826:android:7daafb239ac7c1488ac0c3",
+        "android_client_info": {
+          "package_name": "in.esmartsolution.shree.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793591848826-1dq0cv95uan48tdkhfjdd4ltki9ja12q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7QTeJi7VuujjUBggV4TaF5yUJQrAukg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793591848826-1dq0cv95uan48tdkhfjdd4ltki9ja12q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793591848826:android:f1f23011475c8c0d8ac0c3",
+        "android_client_info": {
+          "package_name": "in.esmartsolution.shree.proadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793591848826-1dq0cv95uan48tdkhfjdd4ltki9ja12q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7QTeJi7VuujjUBggV4TaF5yUJQrAukg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793591848826-1dq0cv95uan48tdkhfjdd4ltki9ja12q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
