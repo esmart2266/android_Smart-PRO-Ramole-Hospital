@@ -24,6 +24,8 @@ public class ForgotPasswordActivity extends BaseActivity<ActivityForgotPasswordB
     TextView toolbarTitle;
     Toolbar toolbar;
 
+    TextView textView;
+
     protected ActivityForgotPasswordBinding inflateBinding(LayoutInflater inflater) {
         return ActivityForgotPasswordBinding.inflate(inflater);
     }
